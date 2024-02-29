@@ -1,0 +1,1 @@
+Communication between team members is crucial to avoid conflicts in the future. For example, if I had communicated to my teammate that I had used the second line, he could have typed on the 3rd line instead and we could’ve avoided a conflict.
